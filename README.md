@@ -14,5 +14,5 @@ Also, by following the second tutorial https://codelabs.developers.google.com/co
 Below is the output of **startup_namer Part2** Application 
 
 <p align="center">
-  <img width="250" height="400" src="https://github.com/0xESC/flutterApp/blob/master/startup_namer_Part2.gif">
+  <img width="200" height="400" src="https://github.com/0xESC/flutterApp/blob/master/startup_namer_Part2.gif">
 </p>
