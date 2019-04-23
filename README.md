@@ -3,7 +3,7 @@ Basically, **startup_namer** App is a simple mobile app that generates proposed 
 
 By following the first tutorial https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0
 
-Below is the output of startup_namer Part1 Application 
+Below is the output of **startup_namer Part1** Application 
 
 <p align="center">
   <img width="250" height="400" src="https://github.com/0xESC/flutterApp/blob/master/startup_namer_Part1.gif">
@@ -11,6 +11,8 @@ Below is the output of startup_namer Part1 Application
 
 Also, by following the second tutorial https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0
 
-Below is the output of startup_namer Part2 Application 
+Below is the output of **startup_namer Part2** Application 
 
-![startup_namer_Part2]()
+<p align="center">
+  <img width="250" height="400" src="https://github.com/0xESC/flutterApp/blob/master/startup_namer_Part2.gif">
+</p>
