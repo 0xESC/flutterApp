@@ -5,7 +5,9 @@ By following the first tutorial https://codelabs.developers.google.com/codelabs/
 
 Below is the output of startup_namer Part1 Application 
 
-![startup_namer_Part1](https://github.com/0xESC/flutterApp/blob/master/startup_namer_Part1.gif)
+<p align="center">
+  <img width="250" height="400" src="https://github.com/0xESC/flutterApp/blob/master/startup_namer_Part1.gif">
+</p>
 
 Also, by following the second tutorial https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0
 
